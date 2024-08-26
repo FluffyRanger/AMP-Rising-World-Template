@@ -1,0 +1,19 @@
+[
+    {
+        "DisplayName": "Server_Admins",
+        "Category": "Server Settings",
+        "Description": "UIDs of server admins (separated by semicolon)",
+        "Keywords": "server_admins",
+        "FieldName": "Server_Admins",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "Server_Admins",
+        "IncludeInCommandLine": false,
+        "DefaultValue": "",
+        "Placeholder": "",
+        "Suffix": "",
+        "Hidden": false,
+        "SkipIfEmpty": false,
+        "EnumValues": {}
+    }
+]

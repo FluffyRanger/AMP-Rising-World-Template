@@ -1,8 +1,10 @@
 {
     "id": "f152039d-ba9f-4d1b-ae9e-0c0747dc432b",
-    "authors": ["Jacob Schantli"],
+    "authors": [
+        "Jacob Schantli"
+    ],
     "origin": "https://github.com/FluffyRanger/AMP-Rising-World-Template.git",
     "url": "https://github.com/FluffyRanger/AMP-Rising-World-Template",
     "imagefile": "",
-    "prefix": "Rising World"
+    "prefix": "Jacob Schantli"
 }

@@ -1,8 +1,10 @@
 {
-    "id": "f152039d-ba9f-4d1b-ae9e-0c0747dc432b",
-    "authors": ["Jacob Schantli"],
-    "origin": "https://github.com/FluffyRanger/AMP-Rising-World-Template.git",
-    "url": "https://github.com/FluffyRanger/AMP-Rising-World-Template",
+    "id": "064f684c-5fa5-4e6d-8022-e6fe279cf128",
+    "authors": [
+        "FluffyRanger - Made with AMP Config Generator"
+    ],
+    "origin": "https://github.com/FluffyRanger - Made with AMP Config Generator/AMPTemplates.git",
+    "url": "https://github.com/FluffyRanger - Made with AMP Config Generator/AMPTemplates",
     "imagefile": "",
-    "prefix": "Jacob Schantli"
+    "prefix": "FluffyRanger - Made with AMP Config Generator"
 }

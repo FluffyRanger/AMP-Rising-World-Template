@@ -32,5 +32,22 @@
         "Hidden": false,
         "SkipIfEmpty": false,
         "EnumValues": {}
+    },
+    {
+        "DisplayName": "Server Password",
+        "Category": "Server Settings",
+        "Description": "Server password. If set, users are prompted to enter the pw to join the server. Leave blank for no pw",
+        "Keywords": "server,password",
+        "FieldName": "Server_Password=",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "Server_Password=",
+        "IncludeInCommandLine": false,
+        "DefaultValue": "",
+        "Placeholder": "",
+        "Suffix": "",
+        "Hidden": false,
+        "SkipIfEmpty": false,
+        "EnumValues": {}
     }
 ]
